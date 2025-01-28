@@ -50,7 +50,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "hzwdannnoz",
+    "mbrsiteDomain": "zxbgztjdyz",
     "imageResize": true,
     "usedWebp": true,
     "robotsSwitcher": false,
@@ -71,12 +71,18 @@
       "textButton": "GOT IT",
       "rejectText": "REJECT"
     },
-    "gdpr": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "uniqCompNum": 26,
     "versionPublish": "5.9.11",
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "site_lang": "de"
   },
   "pages": {
     "index.html": {
